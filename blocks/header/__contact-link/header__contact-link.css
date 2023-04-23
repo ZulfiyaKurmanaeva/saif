@@ -13,9 +13,9 @@
     text-decoration: underline;
 }
 
-@media screen and (max-width: 330px) {
+@media screen and (max-width: 450px) {
     .header__contact-link {
-        font-size: 12px;
+        font-size: 16px;
         margin: 0 0 0 10px;      
     }
 }
