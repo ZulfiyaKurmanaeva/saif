@@ -11,7 +11,7 @@
     flex-wrap: wrap;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 450px) {
     .footer__links-container {
         flex-direction: column;
         justify-content: flex-end;
