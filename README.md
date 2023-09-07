@@ -16,6 +16,7 @@
       <p>***</p>
       <p><strong>Сайт разработанный для компании, предоставляющей услуги по лицензированию.</strong></p>
       <p>Стек: HTML, CSS, Flexbox, БЭМ.</p>
+      <p>Функционал: Адаптивный интерфейс для разных устройств.</p>
       <p><a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/" target="_blank">Ссылка на сайт</a></p>
     </td>
     <td>
