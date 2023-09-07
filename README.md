@@ -1,11 +1,10 @@
-## PROdocumenty
+<h2 align="center">PROdocumenty</h2>
 
 <table>
 <tr>
     <td>
-      <h3 style="color: grey">PROdocumenty</h3>
-      <p><strong>Tools: Html, CSS, Flexbox</strong></p>
-      <p>A commercial project developed for a licensing company.</p>
+      <p><strong>A commercial project developed for a licensing company.</strong></p>
+      <p>Tools: Html, CSS, Flexbox</p>   
       <p>The project has the following functions: </p>
       <ul>
         <li>Layout according to BEM methodology;</li>
@@ -15,8 +14,8 @@
       <p>You can find the code <a href="https://github.com/ZulfiyaKurmanaeva/PROdocumenty/" target="_blank">here</a>.</p>
       <p>The result <a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/" target="_blank">here</a> or you can click on the image on the right.</p>
       <p>***</p>
-      <p>Сайт разработанный для компании, которая занимается предоставлением услуг по лицензированию.</p>
-      <p><strong>Стек: HTML, CSS, Flexbox, БЭМ.</strong></p>
+      <p><strong>Сайт разработанный для компании, которая занимается предоставлением услуг по лицензированию.</strong></p>
+      <p>Стек: HTML, CSS, Flexbox, БЭМ.</p>
       <p><a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/" target="_blank">Ссылка на сайт</a></p>
     </td>
     <td>
