@@ -11,7 +11,6 @@
         <li>Adaptability at different resolutions, including breakpoints;</li>
         <li>Using flex technologies;</li>        
       </ul>
-      <p>You can find the code <a href="https://github.com/ZulfiyaKurmanaeva/PROdocumenty/" target="_blank">here</a>.</p>
       <p>The result <a href="https://zulfiyakurmanaeva.github.io/PROdocumenty/" target="_blank">here</a> or you can click on the image on the right.</p>
       <p>***</p>
       <p><strong>Сайт разработанный для компании, предоставляющей услуги по лицензированию.</strong></p>
